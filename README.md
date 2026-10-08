@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0509-fibonacci-number](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -25,4 +26,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
