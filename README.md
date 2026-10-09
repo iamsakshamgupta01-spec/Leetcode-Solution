@@ -23,14 +23,20 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
