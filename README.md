@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0078-subsets](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0078-subsets/) | Medium |
 | [0704-binary-search](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Binary Search
@@ -39,4 +40,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/iamsakshamgupta01-spec/Leetcode-Solution/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
